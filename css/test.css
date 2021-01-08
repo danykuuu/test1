@@ -1,7 +1,5 @@
 <style type="text/css">
-body{
-	background-color: purple;
-}
+
 
 h1{
 	font-size: 30px;
@@ -25,5 +23,8 @@ h2{
 }
 h1 span{
 	color: violet;
+}
+body{
+	background-color: grey;
 }
 </style>
